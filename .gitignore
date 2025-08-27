@@ -11,3 +11,12 @@ venv/
 
 # Static files
 /staticfiles
+
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.env
+
